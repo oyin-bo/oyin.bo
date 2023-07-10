@@ -10,7 +10,6 @@ function start() {
   }
 
   loadCSS();
-  injectTweetWidgets();
   loadMarkedScript();
   document.write('<!--');
   window.onload = processMarkdown;
@@ -95,18 +94,4 @@ function processMarkdown() {
     document.body.appendChild(head);
   }
 
-  function detectTweetQuotes() {
-    var tweetQuotes = typeof document.querySelector === 'function' && document.querySelector('.twitter-tweet');
-    if (tweetQuotes) {
-      injectTweetWidgets();
-    }
-  }
-
-}
-
-function injectTweetWidgets() {
-  var wdg = document.createElement('script');
-  wdg.async = true;
-  wdg.src = 'https://platform.twitter.com/widgets.js';
-  (document.body || document.head || document.scripts[0].parentElement).appendChild(wdg);
 }
