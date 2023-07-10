@@ -55,6 +55,11 @@ function processMarkdown() {
 
   var container = document.createElement('div');
   container.id = 'container';
+  container.className = 'path-' +
+    location.pathname
+      .replace(/^\/+/,'').replace(/\/+$/,'').replace(/\.[a-z0-9]+$/, '').replace(/\.+/g, '-')
+      .replace(/\/+/g, '-');
+  container.className += ' document-' + container.className.split('-').reverse()[0];
   container.innerHTML = html;
   
   document.body.appendChild(container);
