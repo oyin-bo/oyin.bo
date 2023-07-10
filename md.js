@@ -65,7 +65,6 @@ function processMarkdown() {
   container.innerHTML = html;
   
   document.body.appendChild(container);
-  detectTweetQuotes();
 
   var header = document.body.querySelector &&
     (document.body.querySelector('h1') || document.body.querySelector('h2'));
