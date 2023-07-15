@@ -74,7 +74,7 @@ function processMarkdown() {
     if (location.pathname !== '/' && location.pathname !== '/index.html') {
       var injectedHead = document.getElementById('head');
       if (injectedHead) {
-        injectHead.innerHTML = header.innerHTML;
+        injectedHead.innerHTML = header.innerHT;
       }
     }
   }
