@@ -69,7 +69,15 @@ function processMarkdown() {
   var header = document.body.querySelector &&
     (document.body.querySelector('h1') || document.body.querySelector('h2'));
  
-  if (header) document.title = (header.textContent || header.innerText) + ' - \uD835\uDD46\ud835\udd50\ud835\udd40\u2115.\ud835\udd39\ud835\udd46';
+  if (header) {
+    document.title = (header.textContent || header.innerText) + ' - \uD835\uDD46\ud835\udd50\ud835\udd40\u2115.\ud835\udd39\ud835\udd46';
+    if (location.pathname !== '/' && location.pathname !== '/index.html') {
+      var injectedHead = document.getElementById('head');
+      if (injectedHead) {
+        injectHead.innerHTML = header.innerHTML;
+      }
+    }
+  }
     
   function extractCommentContent() {
     var wholeHTML = document.body.parentElement.outerHTML;
