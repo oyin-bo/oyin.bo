@@ -2,3 +2,6 @@
 	path = tty.wtf
 	url = https://github.com/mihailik/tty.wtf
 	branch = old
+[submodule "atlas"]
+	path = atlas
+	url = https://github.com/mihailik/atlas
