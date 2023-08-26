@@ -1,0 +1,4 @@
+[submodule "tty.wtf"]
+	path = tty.wtf
+	url = https://github.com/mihailik/tty.wtf
+	branch = old
