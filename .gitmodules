@@ -5,3 +5,6 @@
 [submodule "atlas"]
 	path = atlas
 	url = https://github.com/mihailik/atlas
+[submodule "atlas-db"]
+	path = atlas-db
+	url = https://github.com/mihailik/atlas-db
