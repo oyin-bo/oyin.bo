@@ -8,3 +8,6 @@
 [submodule "atlas-db"]
 	path = atlas-db
 	url = https://github.com/mihailik/atlas-db
+[submodule "atlas-db-jsonp"]
+	path = atlas-db-jsonp
+	url = https://github.com/mihailik/atlas-db-jsonp
