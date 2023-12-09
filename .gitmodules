@@ -17,3 +17,6 @@
 [submodule "receipts-db"]
 	path = receipts-db
 	url = https://github.com/mihailik/receipts-db
+[submodule "bluesky-static/accounts"]
+	path = bluesky-static/accounts
+	url = https://github.com/bluesky-static/accounts
