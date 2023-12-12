@@ -20,3 +20,81 @@
 [submodule "bluesky-static/accounts"]
 	path = bluesky-static/accounts
 	url = https://github.com/bluesky-static/accounts
+[submodule "bluesky-static/accounts-index/a"]
+	path = bluesky-static/accounts-index/a
+	url = https://github.com/bluesky-static/accounts-a
+[submodule "bluesky-static/accounts-index/b"]
+	path = bluesky-static/accounts-index/b
+	url = https://github.com/bluesky-static/accounts-b
+[submodule "bluesky-static/accounts-index/c"]
+	path = bluesky-static/accounts-index/c
+	url = https://github.com/bluesky-static/accounts-c
+[submodule "bluesky-static/accounts-index/d"]
+	path = bluesky-static/accounts-index/d
+	url = https://github.com/bluesky-static/accounts-d
+[submodule "bluesky-static/accounts-index/e"]
+	path = bluesky-static/accounts-index/e
+	url = https://github.com/bluesky-static/accounts-e
+[submodule "bluesky-static/accounts-index/f"]
+	path = bluesky-static/accounts-index/f
+	url = https://github.com/bluesky-static/accounts-f
+[submodule "bluesky-static/accounts-index/g"]
+	path = bluesky-static/accounts-index/g
+	url = https://github.com/bluesky-static/accounts-g
+[submodule "bluesky-static/accounts-index/h"]
+	path = bluesky-static/accounts-index/h
+	url = https://github.com/bluesky-static/accounts-h
+[submodule "bluesky-static/accounts-index/i"]
+	path = bluesky-static/accounts-index/i
+	url = https://github.com/bluesky-static/accounts-i
+[submodule "bluesky-static/accounts-index/j"]
+	path = bluesky-static/accounts-index/j
+	url = https://github.com/bluesky-static/accounts-j
+[submodule "bluesky-static/accounts-index/k"]
+	path = bluesky-static/accounts-index/k
+	url = https://github.com/bluesky-static/accounts-k
+[submodule "bluesky-static/accounts-index/l"]
+	path = bluesky-static/accounts-index/l
+	url = https://github.com/bluesky-static/accounts-l
+[submodule "bluesky-static/accounts-index/m"]
+	path = bluesky-static/accounts-index/m
+	url = https://github.com/bluesky-static/accounts-m
+[submodule "bluesky-static/accounts-index/n"]
+	path = bluesky-static/accounts-index/n
+	url = https://github.com/bluesky-static/accounts-n
+[submodule "bluesky-static/accounts-index/o"]
+	path = bluesky-static/accounts-index/o
+	url = https://github.com/bluesky-static/accounts-o
+[submodule "bluesky-static/accounts-index/p"]
+	path = bluesky-static/accounts-index/p
+	url = https://github.com/bluesky-static/accounts-p
+[submodule "bluesky-static/accounts-index/q"]
+	path = bluesky-static/accounts-index/q
+	url = https://github.com/bluesky-static/accounts-q
+[submodule "bluesky-static/accounts-index/r"]
+	path = bluesky-static/accounts-index/r
+	url = https://github.com/bluesky-static/accounts-r
+[submodule "bluesky-static/accounts-index/s"]
+	path = bluesky-static/accounts-index/s
+	url = https://github.com/bluesky-static/accounts-s
+[submodule "bluesky-static/accounts-index/t"]
+	path = bluesky-static/accounts-index/t
+	url = https://github.com/bluesky-static/accounts-t
+[submodule "bluesky-static/accounts-index/u"]
+	path = bluesky-static/accounts-index/u
+	url = https://github.com/bluesky-static/accounts-u
+[submodule "bluesky-static/accounts-index/v"]
+	path = bluesky-static/accounts-index/v
+	url = https://github.com/bluesky-static/accounts-v
+[submodule "bluesky-static/accounts-index/w"]
+	path = bluesky-static/accounts-index/w
+	url = https://github.com/bluesky-static/accounts-w
+[submodule "bluesky-static/accounts-index/x"]
+	path = bluesky-static/accounts-index/x
+	url = https://github.com/bluesky-static/accounts-x
+[submodule "bluesky-static/accounts-index/y"]
+	path = bluesky-static/accounts-index/y
+	url = https://github.com/bluesky-static/accounts-y
+[submodule "bluesky-static/accounts-index/z"]
+	path = bluesky-static/accounts-index/z
+	url = https://github.com/bluesky-static/accounts-z
